@@ -1,0 +1,9 @@
+1.*ngFor -(*:asterisk) is called structural directives .this directives will change the DOM structure by adding or removing html.it wont hide the elements
+2.evnet? - ? is called safe navigation operator.it wont throw error even though event is not there.
+
+
+
+## Practice exercises
+@@ https://jcoop.io/angular-2-practice-exercises/
+## Name of keyword in keyboard
+@@ http://oprekanblog.blogspot.in/2014/10/the-names-of-symbols-at-computer.html
